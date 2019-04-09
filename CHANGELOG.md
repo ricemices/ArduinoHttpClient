@@ -1,3 +1,7 @@
+## ArduinoHttpClient 0.4.0 - 2019.04.09
+
+* Added URLEncoder helper
+
 ## ArduinoHttpClient 0.3.2 - 2019.02.04
 
 * Changed Flush return value resulting in compilation error. Thanks @forGGe
