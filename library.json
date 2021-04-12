@@ -1,7 +1,7 @@
 {
   "name": "ArduinoHttpClient",
   "keywords": "http, web, client, ethernet, wifi, GSM",
-  "description": "Easily interact with web servers from Arduino, using HTTP and WebSocket's.",
+  "description": "Easily interact with web servers from Arduino, using HTTP and WebSockets.",
   "repository":
   {
     "type": "git",
