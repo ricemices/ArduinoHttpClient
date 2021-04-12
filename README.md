@@ -1,5 +1,6 @@
 # ArduinoHttpClient
 
+[![Check Arduino status](https://github.com/arduino-libraries/ArduinoHttpClient/actions/workflows/check-arduino.yml/badge.svg)](https://github.com/arduino-libraries/ArduinoHttpClient/actions/workflows/check-arduino.yml)
 [![Spell Check status](https://github.com/arduino-libraries/ArduinoHttpClient/actions/workflows/spell-check.yml/badge.svg)](https://github.com/arduino-libraries/ArduinoHttpClient/actions/workflows/spell-check.yml)
 
 ArduinoHttpClient is a library to make it easier to interact with web servers from Arduino.
